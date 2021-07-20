@@ -16,9 +16,9 @@
   - ⚡ Fun fact: I am still a newbie😄.
   - 😍 Interested to build tech that solve real world problem
   - 📫 You can reach me through 👇  
-    <br />[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohitagarwal1432/)  &nbsp; 
-    [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mohitagarwal1432/)  &nbsp; 
-    <a href="mailto:mohitagarwal1432@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
+    <br />[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sanskar-gupta-0354b21b7/)  &nbsp; 
+    [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sanskargupta_09/?hl=en)  &nbsp; 
+    <a href="mailto:sanskargupta0901@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
 <br>
 <br>
 <hr />
