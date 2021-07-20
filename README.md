@@ -1,6 +1,6 @@
 <!-- ![Banner](https://github.com/Tejaswi-Chaudhari/Tejaswi-Chaudhari/blob/7b2e48c467e9a314b5e5e8bb87e170af27bed601/Banner.gif) -->
 
-<h1 align="center">Hello World, I am Mohit👋</h1>
+<h1 align="center">Hello World, I am Sanskar👋</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mohitagarwal1432"> 
   <img src="https://img.shields.io/github/followers/mohitagarwal1432?label=Follow&style=social)[(https://github.com/mohitagarwal1432">
