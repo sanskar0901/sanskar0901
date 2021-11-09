@@ -29,3 +29,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar0901&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
   
+  <hr />
+  <br>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanskar0901&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
