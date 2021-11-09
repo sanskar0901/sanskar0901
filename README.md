@@ -32,4 +32,4 @@
   <hr />
   <br>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanskar0901&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanskar0901&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
